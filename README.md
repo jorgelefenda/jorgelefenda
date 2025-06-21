@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a **Electronic Engineer** 🎓 graduated from **Universidad Técnica Federico Santa María**, where I developed strong technical skills and a deep passion for **innovation** 💡. I love everything **tech-related** 💻, but my real drive is applying **machine learning** 🤖 to transform the world of **processes⚙️ & finance** 💰.
+I’m an **Electronic Engineer** 🎓 graduated from **Universidad Técnica Federico Santa María**, where I developed strong technical skills and a deep passion for **innovation** 💡. I love everything **tech-related** 💻, but my real drive is applying **machine learning** 🤖 to transform the world of **processes⚙️ & finance** 💰.
 
 I firmly believe that combining **data** 📊, **smart algorithms** ⚙️, and **creativity** 🎨 can unlock new opportunities and solve complex financial problems — from **portfolio optimization** 📈 to **predictive analysis** 🔮.
 
