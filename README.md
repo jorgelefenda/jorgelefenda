@@ -18,4 +18,4 @@ Welcome to my **tech and finance world!** 🚀✨
 
 ---
 
-⚡ Fun fact: I’m a DJ and electronic music producer, and my thesis was about applying evaluation models of deep learning to House music.
+⚡ Fun fact: I’m a DJ and electronic music producer, and my thesis was about applying evaluation models of deep learning to House music. 🎵 🎶 🎼 🎧 🎤
